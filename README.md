@@ -27,9 +27,6 @@
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&layout=compact&hide=html" alt="rendlny" />
   </p>
-  <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rendlny&show_icons=true" alt="rendlny" />
-   </p>
 </div>
 <p align="center">
   <a href="https://twitter.com/@ren_delaney" target="blank">
