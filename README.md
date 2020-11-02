@@ -2,7 +2,7 @@
 ### I am a Software Engineer from Ireland
 
 - 🔭 I’m currently working on **Improving my personal website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python** <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
-- 🌱 I’m currently learning **The Django Framework and improving my Python skills**
+- 🌱 I’m currently learning **The Django Framework, improving my Python skills and studying to become an AWS Certified Developer Associate**
 - 👯 I’m looking to collaborate on **Python, PHP or Java projects, particularly if it's environmental, boardgame, videogame or music related**
 - 💬 Ask me about **PHP, Laravel Framework and Python**
 - 📫 How to reach me: **ren.delaney@gmail.com**
