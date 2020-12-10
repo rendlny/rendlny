@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/rendlny/rendlny/blob/master/banner.jpg" alt="banner image"/></p>
+<p><img align="center" src="https://github.com/rendlny/rendlny/blob/main/banner.jpg" alt="banner image"/></p>
 
 # Howdy! 👋 I'm Ren Delaney
 ### I am a Software Engineer from Ireland
