@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/rendlny/rendlny/blob/main/banner.png" alt="banner image"/></p>
+<p><img align="center" src="https://github.com/rendlny/rendlny/blob/main/linked_in_banner.png?v=1" alt="banner image"/></p>
 
 <h1 align="center">Howdy! 👋 I'm Ren Delaney</h1>
 
