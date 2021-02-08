@@ -34,6 +34,6 @@ I am a Software Engineer & Web Developer from Ireland
 <h2>📈 Github Stats</h2>
 <p align="center">
   <a href="https://github.com/rendlny/rendlny">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&text_color=22c28d&title_color=f8f9fa&bg_color=440167&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&text_color=22c28d&title_color=f8f9fa&bg_color=220b3a&count_private=true" />
   </a>
 </p>
