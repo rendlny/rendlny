@@ -7,19 +7,19 @@
   <a href="https://www.linkedin.com/in/ren-delaney" target="blank">Linkedin</a>
 </p>
 
-I am a Software Engineer from Ireland
-- 🚀 I’m currently working on **Improving my personal website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python** <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
+I am a Software Engineer & Web Developer from Ireland
+- 🚀 I’m currently working on **Improving my website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python** <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
 - 🌱 I’m currently learning **The Django Framework, improving my Python skills and studying to become an AWS Certified Developer Associate**
 - 👯 I’m looking to collaborate on **Python, PHP or Java projects, particularly if it's environmental, board-game, video-game or music related**
 - 💬 Ask me about **PHP, Laravel Framework and Python**
 - 📫 How to reach me: **ren.delaney@gmail.com**
 - 😄 Pronouns: **they/them**
 - ⚡ Fun fact: **Atom is my IDE of choice**
-<br>
+
 <p align="left"> <a href="https://twitter.com/ren_delaney" target="blank"><img src="https://img.shields.io/twitter/follow/ren_delaney?logo=twitter&style=for-the-badge" alt="Link to my Twitter" /></a> </p>
 <hr>
 
-<h2>Languages and Tools</h2>
+<h2>🔧 Technologies and Tools</h2>
 <p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -32,10 +32,12 @@ I am a Software Engineer from Ireland
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
 </p>
 
-<h2> My Github Stats</h2>
+<h2>📈 Github Stats</h2>
+<a href="https://github.com/rendlny/rendlny">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <div>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rendlny&show_icons=true&include_all_commits=true&count_private=true&hide=contribs" alt="rendlny" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&layout=compact&hide=html" alt="rendlny" />
   </p>
 </div>
