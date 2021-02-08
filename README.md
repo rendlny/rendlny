@@ -33,14 +33,11 @@ I am a Software Engineer & Web Developer from Ireland
 </p>
 
 <h2>📈 Github Stats</h2>
-<a href="https://github.com/rendlny/rendlny">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<div>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&layout=compact&hide=html" alt="rendlny" />
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/rendlny/rendlny">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&text_color=22c28d&title_color=f8f9fa&bg_color=2a0735&count_private=true" />
+  </a>
+</p>
 
 <hr/>
 <p align="center"><img src=https://komarev.com/ghpvc/?username=rendlny&color=22c38e alt="rendlny profile view count"/></p>
