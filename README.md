@@ -1,13 +1,11 @@
 [![Header](https://github.com/rendlny/rendlny/blob/main/linked_in_banner.png?v=1 "Header")](https://ren.ie/)
 
-<h1 align="center">Howdy! 👋 I'm Ren Delaney</h1>
+<h1 align="center">Howdy! 👋</h1>
 <p align="center">
-  <a href="https://ren.ie">Website</a> •
-  <a href="https://twitter.com/ren_delaney">Twitter</a> •
-  <a href="https://www.linkedin.com/in/ren-delaney">Linkedin</a>
+  <a href="https://ren.ie" target="blank">Website</a> •
+  <a href="https://twitter.com/ren_delaney" target="blank">Twitter</a> •
+  <a href="https://www.linkedin.com/in/ren-delaney" target="blank">Linkedin</a>
 </p>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rendlny alt=rendlny/> </p>
-<p align="left"> <a href="https://twitter.com/ren_delaney" target="blank"><img src="https://img.shields.io/twitter/follow/ren_delaney?logo=twitter&style=for-the-badge" alt="Link to my Twitter" /></a> </p>
 
 I am a Software Engineer from Ireland
 - 🚀 I’m currently working on **Improving my personal website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python** <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
@@ -17,7 +15,8 @@ I am a Software Engineer from Ireland
 - 📫 How to reach me: **ren.delaney@gmail.com**
 - 😄 Pronouns: **they/them**
 - ⚡ Fun fact: **Atom is my IDE of choice**
-
+<br>
+<p align="left"> <a href="https://twitter.com/ren_delaney" target="blank"><img src="https://img.shields.io/twitter/follow/ren_delaney?logo=twitter&style=for-the-badge" alt="Link to my Twitter" /></a> </p>
 <hr>
 
 <h2>Languages and Tools</h2>
@@ -42,5 +41,4 @@ I am a Software Engineer from Ireland
 </div>
 
 <hr/>
-
-<p align="center"><img src="https://profile-counter.glitch.me/rendlny/count.svg" alt=""/></p>
+<p align="center"><img src=https://komarev.com/ghpvc/?username=rendlny&color=22c38e alt="rendlny profile view count"/></p>
