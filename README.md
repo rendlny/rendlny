@@ -1,6 +1,6 @@
 [![Header](https://github.com/rendlny/rendlny/blob/main/linked_in_banner.png?v=1 "Header")](https://ren.ie/)
 
-<h1 align="center">Howdy! 👋</h1>
+<h1 align="center">Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">
   <a href="https://ren.ie" target="blank">Website</a> •
   <a href="https://twitter.com/ren_delaney" target="blank">Twitter</a> •
@@ -8,16 +8,13 @@
 </p>
 
 I am a Software Engineer & Web Developer from Ireland
-- 🚀 I’m currently working on **Improving my website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python** <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
-- 🌱 I’m currently learning **The Django Framework, improving my Python skills and studying to become an AWS Certified Developer Associate**
-- 👯 I’m looking to collaborate on **Python, PHP or Java projects, particularly if it's environmental, board-game, video-game or music related**
-- 💬 Ask me about **PHP, Laravel Framework and Python**
-- 📫 How to reach me: **ren.delaney@gmail.com**
-- 😄 Pronouns: **they/them**
-- ⚡ Fun fact: **Atom is my IDE of choice**
-
-<p align="left"> <a href="https://twitter.com/ren_delaney" target="blank"><img src="https://img.shields.io/twitter/follow/ren_delaney?logo=twitter&style=for-the-badge" alt="Link to my Twitter" /></a> </p>
-<hr>
+- 🚀 I’m currently working on Improving my website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
+- 🌱 I’m currently learning Django, improving my Python and studying AWS skills
+- 👯 I’m looking to collaborate on Python, PHP or Java projects, particularly if it's environmental, board-game, video-game or music related
+- 💬 Ask me about PHP, Laravel Framework and Python
+- 📫 How to reach me: ren.delaney@gmail.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: Atom is my fav IDE
 
 <h2>🔧 Technologies and Tools</h2>
 <p align="center">
@@ -35,7 +32,7 @@ I am a Software Engineer & Web Developer from Ireland
 <h2>📈 Github Stats</h2>
 <p align="center">
   <a href="https://github.com/rendlny/rendlny">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&text_color=22c28d&title_color=f8f9fa&bg_color=2a0735&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&text_color=22c28d&title_color=f8f9fa&bg_color=440167&count_private=true" />
   </a>
 </p>
 
