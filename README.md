@@ -16,6 +16,8 @@ I am a Software Engineer & Web Developer from Ireland
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: Atom is my fav IDE
 
+<p align="right"><img src=https://komarev.com/ghpvc/?username=rendlny&color=22c38e alt="rendlny profile view count"/></p>
+
 <h2>🔧 Technologies and Tools</h2>
 <p align="center">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
@@ -35,6 +37,3 @@ I am a Software Engineer & Web Developer from Ireland
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendlny&text_color=22c28d&title_color=f8f9fa&bg_color=440167&count_private=true" />
   </a>
 </p>
-
-<hr/>
-<p align="center"><img src=https://komarev.com/ghpvc/?username=rendlny&color=22c38e alt="rendlny profile view count"/></p>
