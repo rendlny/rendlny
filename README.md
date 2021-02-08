@@ -1,6 +1,13 @@
-<p><img align="center" src="https://github.com/rendlny/rendlny/blob/main/linked_in_banner.png?v=1" alt="banner image"/></p>
+[![Header](https://github.com/rendlny/rendlny/blob/main/linked_in_banner.png?v=1 "Header")](https://ren.ie/)
 
 <h1 align="center">Howdy! 👋 I'm Ren Delaney</h1>
+<p align="center">
+  <a href="https://ren.ie">Website</a> •
+  <a href="https://twitter.com/ren_delaney">Twitter</a> •
+  <a href="https://www.linkedin.com/in/ren-delaney">Linkedin</a>
+</p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rendlny alt=rendlny/> </p>
+<p align="left"> <a href="https://twitter.com/ren_delaney" target="blank"><img src="https://img.shields.io/twitter/follow/ren_delaney?logo=twitter&style=for-the-badge" alt="Link to my Twitter" /></a> </p>
 
 I am a Software Engineer from Ireland
 - 🚀 I’m currently working on **Improving my personal website <a href="https://ren.ie" target="_blank">:link:</a> and building a web app with Python** <a href="https://github.com/rendlny/imdb_user_data_analysis" target="_blank">:link:</a>
@@ -12,20 +19,6 @@ I am a Software Engineer from Ireland
 - ⚡ Fun fact: **Atom is my IDE of choice**
 
 <hr>
-<p align="center">
-  <a href="https://github.com/rendlny" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/ren-delaney/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/ren_delaney" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" />
-  </a>
-  <a href="https://ren.ie" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="ren.ie" height="30" width="30" />
-  </a>
-</p>
 
 <h2>Languages and Tools</h2>
 <p align="center">
