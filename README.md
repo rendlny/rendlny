@@ -12,9 +12,8 @@ I am a Software Engineer & Web Developer from Ireland
 - 🌱 I’m currently learning Django, improving my Python and studying AWS skills
 - 👯 I’m looking to collaborate on Python, PHP or Java projects, particularly if it's environmental, board-game, video-game or music related
 - 💬 Ask me about PHP, Laravel Framework and Python
-- 📫 How to reach me: ren.delaney@gmail.com
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: Atom is my fav IDE
+- 📫 How to reach me: ren.delaney@gmail.com
 
 <p align="right"><img src=https://komarev.com/ghpvc/?username=rendlny&color=22c38e alt="rendlny profile view count"/></p>
 
